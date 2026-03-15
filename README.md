@@ -12,7 +12,7 @@ A two-player dice game. On each turn, roll the dice as many times as you like to
 
 ## 🚀 Play Online
 
-Hosted via **GitHub Pages**: [https://DavidvV33.github.io/javascript-mini-games](https://DavidvV33.github.io/javascript-mini-games)
+Hosted via **GitHub Pages**: [https://dvidosic.github.io/javascript-mini-games](https://DavidvV33.github.io/javascript-mini-games)
 
 ## 📁 Project Structure
 
